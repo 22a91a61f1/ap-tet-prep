@@ -1,0 +1,1055 @@
+{
+  "tel_p1_t1": {
+    "topicId": "tel_p1_t1",
+    "name": "పఠనావగాహన (Reading Comprehension)",
+    "description": "AP TET పేపర్-1 తెలుగు పఠనావగాహనలో అపరిచిత పద్యం మరియు గద్యాలను వేగంగా పూర్తి మార్కులు సాధించే ఉత్తమ పద్ధతులు.",
+    "duration": "1 hr 12 min",
+    "primaryVideo": {
+      "title": "AP TET Telugu Comprehension - అపరిచిత గద్యాలు & పద్యాలు సులువైన ట్రిక్స్",
+      "teacher": "పి. శ్రీనివాస రావు గారు (Telugu Academy Expert)",
+      "duration": "1 hr 12 min",
+      "youtubeId": "Wlyp69QfGf8",
+      "views": "185K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "AP TET DS Grammar & Comprehension Practice Session",
+        "teacher": "కె. వెంకటాచారి (Senior TET Mentor)",
+        "duration": "45 min",
+        "youtubeId": "H6vB1yN7M7Y"
+      },
+      {
+        "title": "Unseen Passage Exercises for AP TET Paper I",
+        "teacher": "సాధన తెలుగు అకాడమీ (Sadhana Academy)",
+        "duration": "55 min",
+        "youtubeId": "Nf-D9v2G3b4"
+      }
+    ]
+  },
+  "tel_p1_t2": {
+    "topicId": "tel_p1_t2",
+    "name": "తెలుగు సాహిత్యం మరియు కవులు (Telugu Literature & Poets)",
+    "description": "1 నుండి 6వ తరగతి వరకు గల తెలుగు కవులు, రచయితల పరిచయం, బిరుదులు, రచనల యొక్క పూర్తి సమాచారం.",
+    "duration": "1 hr 45 min",
+    "primaryVideo": {
+      "title": "AP TET Telugu 1st to 6th Class Poets and Authors Complete Secrets",
+      "teacher": "డా. ఎం. సుధాకర్ గారు (Literature Specialist)",
+      "duration": "1 hr 45 min",
+      "youtubeId": "P7z8P_9G6a0",
+      "views": "290K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "కవులు & రచనలు - గుర్తుంచుకునే ఈజీ ట్రిక్స్ (Poets Shortcuts)",
+        "teacher": "లక్ష్మణ్ సర్ (Lakshman Education)",
+        "duration": "38 min",
+        "youtubeId": "VwPlT_X8vG8"
+      },
+      {
+        "title": "AP TET 100 Most Important Telugu Literature Bit Analysis",
+        "teacher": "విజయ్ స్టడీ సర్కిల్ (Vijay Studies)",
+        "duration": "1 hr 02 min",
+        "youtubeId": "Kh8mP_2b8Z8"
+      }
+    ]
+  },
+  "tel_p1_t3": {
+    "topicId": "tel_p1_t3",
+    "name": "పదజాలం (Vocabulary)",
+    "description": "అర్థాలు, పర్యాయపదాలు, నానార్థాలు, ప్రకృతి-వికృతులు మొదలగు వాటిని సులభంగా నేర్చుకోండి.",
+    "duration": "1 hr 10 min",
+    "primaryVideo": {
+      "title": "పదజాలం - అర్థాలు, పర్యాయపదాలు మరియు ప్రకృతి వికృతి (TET/DSC Telugu)",
+      "teacher": "పి. రామ్మూర్తి గారు (Telugu Instructor)",
+      "duration": "1 hr 10 min",
+      "youtubeId": "Z0q3aBcE5a2",
+      "views": "142K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "Telugu Prakruthi Vikruthi Complete Text Book Bits 1st to 8th Class",
+        "teacher": "శశిధర్ సర్ (Shashidhar Classes)",
+        "duration": "50 min",
+        "youtubeId": "W2h6d8vF8b0"
+      },
+      {
+        "title": "Synonyms & Antonyms in Telugu for competitive exams",
+        "teacher": "శ్రీ సాయి స్టడీస్ (Sri Sai Studies)",
+        "duration": "32 min",
+        "youtubeId": "Ah8k8wT_K0w"
+      }
+    ]
+  },
+  "tel_p1_t4": {
+    "topicId": "tel_p1_t4",
+    "name": "భాషా భాగాలు & వ్యాకరణం (Grammar)",
+    "description": "సంధులు, సమాసాలు, అలంకారాలు మరియు ఛందస్సుపై సమగ్రమైన వివరణాత్మక తరగతి.",
+    "duration": "2 hr 15 min",
+    "primaryVideo": {
+      "title": "తెలుగు వ్యాకరణం - సంధులు, సమాసాలు Complete Masterclass",
+      "teacher": "కె. రమేష్ బాబు గారు (Telugu Academy Board)",
+      "duration": "2 hr 15 min",
+      "youtubeId": "Ys9b2W8Z9v9",
+      "views": "385K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "అలంకారాలు సులువైన ట్రిక్స్ - ఒక్క వీడియోతో పర్ఫెక్ట్ (Alankaramu)",
+        "teacher": "నాగరాజు సర్ (Nagaraju Education)",
+        "duration": "48 min",
+        "youtubeId": "R7m4P_X9v8b"
+      },
+      {
+        "title": "ఛందస్సు అత్యంత సులభమైన వివరణ - తెలుగు వ్యాకరణం",
+        "teacher": "సరిత మేడం (Saritha Telugu Studies)",
+        "duration": "1 hr 05 min",
+        "youtubeId": "C8d2w_P8X2z"
+      }
+    ]
+  },
+  "tel_p1_t5": {
+    "topicId": "tel_p1_t5",
+    "name": "బోధనా పద్ధతులు (Telugu Pedagogy)",
+    "description": "పద్ధతులు, నైపుణ్యాలు మరియు మూల్యాంకనం గురించి సంపూర్ణ బోధన విధానాలు.",
+    "duration": "1 hr 30 min",
+    "primaryVideo": {
+      "title": "తెలుగు బోధనా పద్ధతులు (Pedagogy) Complete Syllabus Revision",
+      "teacher": "ప్రొఫెసర్ వి. వినాయక్ ప్రసాద్ (Pedagogy Expert)",
+      "duration": "1 hr 30 min",
+      "youtubeId": "Ph7m3A8_9z4",
+      "views": "98K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "భాషా నైపుణ్యాలు (LSRW) తెలుగు మెథడాలజీ బిట్స్",
+        "teacher": "ఆకాష్ అకాడమీ (Akash Academy)",
+        "duration": "42 min",
+        "youtubeId": "Kh8mP_EVSa2"
+      },
+      {
+        "title": "నిరంతర సమగ్ర మూల్యాంకనం (CCE Method) Telugu bits",
+        "teacher": "భాస్కర్ రాజు సార్ (Bhaskar Raju Studies)",
+        "duration": "35 min",
+        "youtubeId": "Yt8vP_A7b3c"
+      }
+    ]
+  },
+  "eng_p1_t1": {
+    "topicId": "eng_p1_t1",
+    "name": "Parts of Speech & Tenses",
+    "description": "Comprehensive explanation of English Parts of Speech, Active/Passive Voice, and all Tenses explained using easy Telugu translations and examples.",
+    "duration": "1 hr 55 min",
+    "primaryVideo": {
+      "title": "All 12 Tenses and Parts of Speech in English with Telugu Meanings",
+      "teacher": "M. Krishna Kishore (ELT Specialist)",
+      "duration": "1 hr 55 min",
+      "youtubeId": "En9P_a9B2w8",
+      "views": "450K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "Active Voice & Passive Voice Tricks in Telugu for AP TET",
+        "teacher": "Srinivas English Academy",
+        "duration": "1 hr 10 min",
+        "youtubeId": "Av9c_P8X8b1"
+      },
+      {
+        "title": "Direct & Indirect Speech Rules & Exercises (Telugu Explanation)",
+        "teacher": "Ramu Sir (AP TET Coach)",
+        "duration": "50 min",
+        "youtubeId": "Di9p_X8v8b0"
+      }
+    ]
+  },
+  "eng_p1_t2": {
+    "topicId": "eng_p1_t2",
+    "name": "Vocabulary & Word Power",
+    "description": "A dedicated high-quality visual lesson in English vocabulary including synonyms, antonyms, phrasal verbs, and homophones for AP TET.",
+    "duration": "58 min",
+    "primaryVideo": {
+      "title": "AP TET English Vocabulary - Synonyms, Antonyms & Phrasal Verbs Class",
+      "teacher": "Ms. Jahnavi Reddy (Expert Educator)",
+      "duration": "58 min",
+      "youtubeId": "Vo8mC_9x8r5",
+      "views": "115K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "Homophones and Homonyms Explained Simply (Telugu Focus)",
+        "teacher": "Smart Prep English",
+        "duration": "38 min",
+        "youtubeId": "Ho9aP_9b8w5"
+      },
+      {
+        "title": "150 Most Repeated One-Word Substitutes for TET/DSC",
+        "teacher": "Prasad Studies",
+        "duration": "45 min",
+        "youtubeId": "Ow9mP_Z8v8c"
+      }
+    ]
+  },
+  "eng_p1_t3": {
+    "topicId": "eng_p1_t3",
+    "name": "Sentence Structure & Correction",
+    "description": "Master Article rules, Prepositions, and finding Common Errors in English Sentences for maximum marks in AP TET Paper 1.",
+    "duration": "1 hr 20 min",
+    "primaryVideo": {
+      "title": "Articles and Prepositions Complete Concept and Practice Bits",
+      "teacher": "G. Satyanarayana (Senior English Lecturer)",
+      "duration": "1 hr 20 min",
+      "youtubeId": "Ar9p_M2B8x9",
+      "views": "210K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "Subject-Verb Agreement Rules in English Grammar",
+        "teacher": "Veni English Classes",
+        "duration": "45 min",
+        "youtubeId": "Sv9p_T8v7y1"
+      },
+      {
+        "title": "Common Error Detection Tricks for Competitive Exams",
+        "teacher": "Learn English with Raju",
+        "duration": "42 min",
+        "youtubeId": "Er9mC_X8v4x"
+      }
+    ]
+  },
+  "eng_p1_t4": {
+    "topicId": "eng_p1_t4",
+    "name": "English Methodology (Pedagogy)",
+    "description": "Learn the aspects of teaching English as a second language, methods, approaches, and CCE evaluation in Telugu explanation.",
+    "duration": "2 hr 05 min",
+    "primaryVideo": {
+      "title": "English Pedagogy (Methodology) Complete Concepts and Syllabus Overview",
+      "teacher": "Dr. S. K. Pasha (ELT & Pedagogy Master)",
+      "duration": "2 hr 05 min",
+      "youtubeId": "Me9b2W8Z_v9",
+      "views": "135K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "Direct Method, Bilingual Method vs Grammar Translation Method",
+        "teacher": "Siri English Academy",
+        "duration": "55 min",
+        "youtubeId": "Me9p_T8x1z0"
+      },
+      {
+        "title": "Language Evaluation & Continuous Comprehensive Evaluation",
+        "teacher": "Sidhara Education",
+        "duration": "35 min",
+        "youtubeId": "Ev9p_C_Z9x8"
+      }
+    ]
+  },
+  "math_p1_t1": {
+    "topicId": "math_p1_t1",
+    "name": "సంఖ్యా వ్యవస్థ (Number System)",
+    "description": "సహజ సంఖ్యలు, కారణాంకాలు, గుణిజాలు, LCM, HCF మరియు భాజనీయత సూత్రాలపై సంపూర్ణ అవగాహన క్లాస్.",
+    "duration": "2 hr 30 min",
+    "primaryVideo": {
+      "title": "AP TET Math Paper I- సంఖ్యా వ్యవస్థ (Number System) Complete Concept and Text Book Bits",
+      "teacher": "బి. సత్యనారాయణ గారు (Senior Math Tutor)",
+      "duration": "2 hr 30 min",
+      "youtubeId": "Nu9b_Z2C8x0",
+      "views": "310K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "HCF and LCM Short-cut Tricks in Telugu",
+        "teacher": "మ్యాథ్స్ మంత్ర (Math Mantra)",
+        "duration": "1 hr 05 min",
+        "youtubeId": "Lc9m_R8w2y8"
+      },
+      {
+        "title": "భాజనీయత సూత్రాలు (Divisibility Rules) Tricks in Telugu",
+        "teacher": "సృజన స్టడీస్ (Srujana Studies)",
+        "duration": "48 min",
+        "youtubeId": "Di9m_U8w9z3"
+      }
+    ]
+  },
+  "math_p1_t2": {
+    "topicId": "math_p1_t2",
+    "name": "అంకగణితం (Arithmetic)",
+    "description": "నిష్పత్తి-అనుపాతం, శాతాలు, లాభనష్టాలు మరియు సాధారణ వడ్డీలపై షార్ట్‌కట్ పద్ధతులతో బోధన.",
+    "duration": "1 hr 40 min",
+    "primaryVideo": {
+      "title": "అంకగణితం - లాభనష్టాలు మరియు శాతాలు Complete Shortcuts in Telugu",
+      "teacher": "శ్రీకాంత్ వర్మ గారు (AP Competitive Math Guide)",
+      "duration": "1 hr 40 min",
+      "youtubeId": "Ar9y_V8c9a8",
+      "views": "245K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "నిష్పత్తి - అనుపాతం (Ratio & Proportion) Text Book Bits Analysis",
+        "teacher": "మెగా స్టడీ సర్కిల్ (Mega Studies)",
+        "duration": "1 hr 12 min",
+        "youtubeId": "Ra9p_Z8v8y9"
+      },
+      {
+        "title": "సరళ వడ్డీ & చక్రవడ్డీ (Simple & Compound Interest Concepts)",
+        "teacher": "రమణ సర్ (Ramana Maths)",
+        "duration": "1 hr 25 min",
+        "youtubeId": "Si9p_I6w9x1"
+      }
+    ]
+  },
+  "math_p1_t3": {
+    "topicId": "math_p1_t3",
+    "name": "రేఖాగణితం & క్షేత్రమితి (Geometry & Mensuration)",
+    "description": "కోణాలు, త్రిభుజాలు, వైశాల్యాలు, చుట్టుకొలతలు మరియు త్రీడీ క్షేత్రమితి సూత్రాలపై విజువల్స్ ద్వారా అవగాహన క్లాస్.",
+    "duration": "2 hr 10 min",
+    "primaryVideo": {
+      "title": "క్షేత్రమితి (Mensuration 2D & 3D) Complete Formulas and Bits in Telugu",
+      "teacher": "జె. రామారావు గారు (Geometry Expert)",
+      "duration": "2 hr 10 min",
+      "youtubeId": "Me9b_R8w2c1",
+      "views": "190K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "కోణాలు మరియు త్రిభుజాలు ప్రాథమిక సిద్ధాంతాలు (Angles & Triangles)",
+        "teacher": "లైట్ హౌస్ అకాడమీ (Lighthouse Academy)",
+        "duration": "55 min",
+        "youtubeId": "Ge9p_T8x2y1"
+      },
+      {
+        "title": "వైశాల్యం, చుట్టుకొలత 6వ, 7వ తరగతి పాఠ్యపుస్తకాల బిట్స్",
+        "teacher": "ఎడ్యుకేషన్ ప్లస్ (Education Plus)",
+        "duration": "1 hr 15 min",
+        "youtubeId": "Ar9p_F2a8b9"
+      }
+    ]
+  },
+  "math_p1_t4": {
+    "topicId": "math_p1_t4",
+    "name": "గణిత బోధనా పద్ధతులు (Math Pedagogy)",
+    "description": "గణిత బోధన పద్ధతులు, బోధనా పరికరాలు (TI, Abacus, Geoboard) మరియు మూల్యాంకనం.",
+    "duration": "1 hr 15 min",
+    "primaryVideo": {
+      "title": "గణిత బోధనా పద్ధతులు (Math Methodology) 100 Most Repeated Bits",
+      "teacher": "పి. తిరుపతిరావు గారు (Pedagogy Specialist)",
+      "duration": "1 hr 15 min",
+      "youtubeId": "Ma9p_V_Z8p0",
+      "views": "112K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "గణిత బోధనోపకరణాలు (Mathematics TLM Instruments) complete guide",
+        "teacher": "విజయ్ స్టడీస్ (Vijay Studies)",
+        "duration": "40 min",
+        "youtubeId": "Ma9p_I6w1z8"
+      },
+      {
+        "title": "గణిత మూల్యాంకనం మరియు గణిత క్లబ్",
+        "teacher": "లక్ష్మీ మేడం (Lakshmi Studies)",
+        "duration": "48 min",
+        "youtubeId": "Ma9p_E9w2z9"
+      }
+    ]
+  },
+  "evs_p1_t1": {
+    "topicId": "evs_p1_t1",
+    "name": "మన పరిసరాలు - జీవ ప్రపంచం (Our Environment - Living World)",
+    "description": "3వ నుండి 5వ తరగతి వరకు గల పర్యావరణ శాస్త్ర పుస్తకాల్లోని మొక్కలు, జంతువులు, ఆరోగ్యం మరియు మన ఆహారం విభాగాల సులభ తరగతి.",
+    "duration": "1 hr 50 min",
+    "primaryVideo": {
+      "title": "3rd to 5th Class EVS Complete Text Book Content Lessons (AP TET)",
+      "teacher": "డి. పద్మావతి గారు (Environment Science HOD)",
+      "duration": "1 hr 50 min",
+      "youtubeId": "Ev9w_T_Z8d1",
+      "views": "280K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "మన ఆహారంలోని సంశ్లేషణలు మరియు పోషకాలు (Food & Science)",
+        "teacher": "రవి శంకర్ రాజు (Science Instructor)",
+        "duration": "1 hr 05 min",
+        "youtubeId": "Fo9w_R8v8z9"
+      },
+      {
+        "title": "జంతువుల ఉనికి - రకాలు మరియు వాటి ఆవాసాలు",
+        "teacher": "పల్లవి స్టడీస్ (Pallavi Studies)",
+        "duration": "50 min",
+        "youtubeId": "An9w_G8x2y1"
+      }
+    ]
+  },
+  "evs_p1_t2": {
+    "topicId": "evs_p1_t2",
+    "name": "సహజ వనరులు & భూగోళం (Natural Resources & Earth)",
+    "description": "గాలి, నీరు, వాతావరణ కాలుష్యం మరియు సౌర కుటుంబం యొక్క సంపూర్ణ పాఠశాల పుస్తకాల వివరణ.",
+    "duration": "1 hr 30 min",
+    "primaryVideo": {
+      "title": "సహజ వనరులు, గాలి, నీరు మరియు సౌర కుటుంబం EVS Class",
+      "teacher": "కె. ఆదినారాయణ రెడ్డి గారు (Geography Senior Faculty)",
+      "duration": "1 hr 30 min",
+      "youtubeId": "Na9w_R8x1z9",
+      "views": "175K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "నీటి కాలుష్యం మరియు దాని నివారణలు - పర్యావరణ బిట్స్",
+        "teacher": "అక్షర అకాడమీ (Akshara Academy)",
+        "duration": "45 min",
+        "youtubeId": "Wa9w_C8z8y9"
+      },
+      {
+        "title": "సౌర కుటుంబం - గ్రహాలు సంపూర్ణ సమాచారం (Solar System)",
+        "teacher": "శ్రీకాంత్ స్టడీస్",
+        "duration": "52 min",
+        "youtubeId": "So9w_S8y2c1"
+      }
+    ]
+  },
+  "evs_p1_t3": {
+    "topicId": "evs_p1_t3",
+    "name": "భారత రాజ్యాంగం & సమాజం (Civics, History & Society)",
+    "description": "రాజ్యాంగ ప్రాథమిక రూపకల్పన, హక్కులు-ధర్మాలు, పంచాయతీ రాజ్ వ్యవస్థలపై విశ్లేషణ క్లాస్.",
+    "duration": "1 hr 45 min",
+    "primaryVideo": {
+      "title": "భారత రాజ్యాంగం - ప్రాథమిక హక్కులు మరియు విధివిధానాలు (AP TET EVS)",
+      "teacher": "ఆర్. సాయిరామ్ శర్మ గారు (Polity Special Lecturer)",
+      "duration": "1 hr 45 min",
+      "youtubeId": "In9w_C2y8z1",
+      "views": "205K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "స్థానిక స్వపరిపాలన - గ్రామ పంచాయితీ మరియు నగరపాలక సంస్థలు",
+        "teacher": "నిత్య కెరీర్ పాయింట్ (Nitya Careers)",
+        "duration": "1 hr 02 min",
+        "youtubeId": "Lo9w_P8v2c9"
+      },
+      {
+        "title": "జాతీయ చిహ్నాలు, స్వాతంత్ర దినోత్సవం మరియు సాంస్కృతిక సమాజం",
+        "teacher": "హరి ప్రసాద్ సర్",
+        "duration": "48 min",
+        "youtubeId": "Hi9w_S8v1z0"
+      }
+    ]
+  },
+  "evs_p1_t4": {
+    "topicId": "evs_p1_t4",
+    "name": "పరిసరాల విజ్ఞాన బోధనా పద్ధతులు (EVS Pedagogy)",
+    "description": "పర్యావరణ శాస్త్ర బోధన పద్ధతులు, పరిశోధనాత్మక ప్రాజెక్టులు మరియు సంపూర్ణ విద్యా ప్రమాణాల విశ్లేషణ.",
+    "duration": "1 hr 10 min",
+    "primaryVideo": {
+      "title": "EVS Methodology (బోధనా పద్ధతులు) Complete Syllabus for Paper I",
+      "teacher": "శ్రీమతి ఎన్. హారిక గారు (Methodology Trainor)",
+      "duration": "1 hr 10 min",
+      "youtubeId": "Me9w_P8y1c9",
+      "views": "85K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "పర్యావరణ విద్యా ప్రమాణాలు (EVS Academic Standards 1 to 6)",
+        "teacher": "తారక్ స్టడీ సర్కిల్ (Tarak Studies)",
+        "duration": "35 min",
+        "youtubeId": "Ac9w_S8v8c1"
+      },
+      {
+        "title": "EVS ప్రాజెక్ట్ విధానం మరియు ప్రయోగాత్మక పద్ధతులు",
+        "teacher": "విజయ్ సర్ EVS బోధన",
+        "duration": "42 min",
+        "youtubeId": "Pr9w_B2v7z1"
+      }
+    ]
+  },
+  "tel_p2_t1": {
+    "topicId": "tel_p2_t1",
+    "name": "భాష - అవగాహన (Language Comprehension)",
+    "description": "AP TET పేపర్-2 తెలుగుకు సంబంధించిన అపరిచిత గద్య సాహిత్య విభాగాలు మరియు నైపుణ్యాల సముపార్జన.",
+    "duration": "1 hr 18 min",
+    "primaryVideo": {
+      "title": "AP TET Paper II Telugu Comprehension Lessons & Objective Questions",
+      "teacher": "డా. పి. లక్ష్మీ ప్రసన్న మేడం (Language HOD)",
+      "duration": "1 hr 18 min",
+      "youtubeId": "Te9b2_Com1x",
+      "views": "110K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "Paper II Telugu Comprehension Model Questions Discussion",
+        "teacher": "రామకృష్ణా స్టడీస్",
+        "duration": "48 min",
+        "youtubeId": "Te9p_C8v3w0"
+      },
+      {
+        "title": "Telugu Reading Comprehension Practice Classes",
+        "teacher": "నాగేశ్వరరావు సర్",
+        "duration": "40 min",
+        "youtubeId": "Te9p_P8w9z1"
+      }
+    ]
+  },
+  "tel_p2_t2": {
+    "topicId": "tel_p2_t2",
+    "name": "తెలుగు సాహిత్యం, కావ్యాలు & కవులు (Telugu Heritage & Poets)",
+    "description": "ఉన్నత స్థాయి పాఠ్యపుస్తకాలలోని ముఖ్య కవులు, నవలలు, పురాణ కావ్యాలు, ప్రబంధాల సంపూర్ణ విశ్లేషణ.",
+    "duration": "2 hr 05 min",
+    "primaryVideo": {
+      "title": "AP TET Paper II Telugu Literature - ప్రాచీన మరియు ఆధునిక కవుల విశ్లేషణ",
+      "teacher": "ప్రొఫెసర్ జి. తిరుమలయ్య గారు (University of Hyderabad)",
+      "duration": "2 hr 05 min",
+      "youtubeId": "Te9b2_Lit9x",
+      "views": "150K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "ప్రసిద్ధ శతక కవులు - వారి జీవన కాలాలు (Detailed Sataka Literature)",
+        "teacher": "సరిత తెలుగు అకాడమీ",
+        "duration": "55 min",
+        "youtubeId": "Te9p_L8w2z9"
+      },
+      {
+        "title": "తెలుగు ప్రక్రియలు - ఇతిహాసాలు, పురాణాలు మరియు ప్రబంధాలు",
+        "teacher": "శ్రీనివాస రాజు సర్",
+        "duration": "1 hr 15 min",
+        "youtubeId": "Te9p_P3v8w1"
+      }
+    ]
+  },
+  "tel_p2_t3": {
+    "topicId": "tel_p2_t3",
+    "name": "వ్యాకరణాంశాలు (Advanced Grammar)",
+    "description": "సంస్కృత సంధులు, జటిల సమాసాల రకాలు, అలంకారాలు మరియు వివిధ ఛందస్సుల యొక్క సూత్రాల వివరణాత్మక తరగతి.",
+    "duration": "2 hr 40 min",
+    "primaryVideo": {
+      "title": "AP TET Telugu Advanced Grammar (పేపర్-2 స్పెషల్) - సంధులు, సమాసాలు, ఛందస్సు",
+      "teacher": "కె. శివశంకర్ గారు (Senior Grammar Master)",
+      "duration": "2 hr 40 min",
+      "youtubeId": "Te9b2_Gra9x",
+      "views": "240K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "సంస్కృత సంధులు - సవర్ణదీర్ఘ, గుణ, వృద్ధి, యణాదేశ (Tricks in Telugu)",
+        "teacher": "ప్రసాద్ సర్ రీసెర్చ్",
+        "duration": "1 hr 10 min",
+        "youtubeId": "Te9p_G8v9y1"
+      },
+      {
+        "title": "వృత్తాలు, జాతీ మరియు ఉపజాతి పద్యాల ఛందస్సు గుర్తించుట",
+        "teacher": "శారదా మేడం తెలుగు వ్యాకరణం",
+        "duration": "1 hr 02 min",
+        "youtubeId": "Te9p_C2b8c9"
+      }
+    ]
+  },
+  "tel_p2_t4": {
+    "topicId": "tel_p2_t4",
+    "name": "తెలుగు బోధనా పద్ధతులు (Telugu Pedagogy)",
+    "description": "తెలుగు భాషా బోధన సిద్ధాంతాలు, టిఎల్ఎమ్ పద్ధతులు మరియు నిరంతర మూల్యాంకనం (పేపర్-2 స్పెషల్).",
+    "duration": "1 hr 42 min",
+    "primaryVideo": {
+      "title": "AP TET Telugu Pedagogy Paper II Complete Academic Guide Line Class",
+      "teacher": "ఎస్. రాఘవేంద్ర రావు గారు (Methodology Gold Medalist)",
+      "duration": "1 hr 42 min",
+      "youtubeId": "Te9b2_Ped9x",
+      "views": "72K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "భాషా బోధనోద్దేశ్యాలు మరియు ప్రమాణాల విశ్లేషణ",
+        "teacher": "రామప్ప స్టడీ సర్కిల్",
+        "duration": "50 min",
+        "youtubeId": "Te9p_M8v8z1"
+      },
+      {
+        "title": "TET Paper 2 Telugu Pedagogy Objective Important Questions",
+        "teacher": "శశిధర్ సర్",
+        "duration": "45 min",
+        "youtubeId": "Te9p_Q8x9z0"
+      }
+    ]
+  },
+  "hin_p2_t1": {
+    "topicId": "hin_p2_t1",
+    "name": "भाषा ज्ञान और व्याकरण (Hindi Grammar)",
+    "description": "Hindi Grammar for AP TET Paper II explained beautifully in Telugu and Hindi context to score high.",
+    "duration": "1 hr 50 min",
+    "primaryVideo": {
+      "title": "AP TET Hindi Grammar Paper 2 Complete Class with Telugu Explanations",
+      "teacher": "Mohammad Ali Sir (Hindi Academy Director)",
+      "duration": "1 hr 50 min",
+      "youtubeId": "Hi9b2_Gra1x",
+      "views": "82K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "Hindi Karak, Sangya & Sarvanam Exercises in Telugu Context",
+        "teacher": "Ramesh Hindi Studies",
+        "duration": "1 hr 05 min",
+        "youtubeId": "Hi9p_K8v8w0"
+      },
+      {
+        "title": "Hindi Sandhi and Samas Tricks for Telugu Medium Students",
+        "teacher": "Srilatha Hindi Classes",
+        "duration": "55 min",
+        "youtubeId": "Hi9p_S2v9z2"
+      }
+    ]
+  },
+  "hin_p2_t2": {
+    "topicId": "hin_p2_t2",
+    "name": "हिंदी साहित्य और रचनाकार (Literature & Authors)",
+    "description": "Learn famous Hindi poets, authors, and books with our specialized literature lesson designed for AP TET Paper II.",
+    "duration": "1 hr 30 min",
+    "primaryVideo": {
+      "title": "Hindi Literature Famous Writers, Eras and Books for AP TET/DSC",
+      "teacher": "Dr. Pradeep Kumar (Hindi Literature Professor)",
+      "duration": "1 hr 30 min",
+      "youtubeId": "Hi9b2_Lit1x",
+      "views": "45K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "Famous Kavi and their rachnalaye shortcuts (Hindi Literature)",
+        "teacher": "Bhasha Education",
+        "duration": "45 min",
+        "youtubeId": "Hi9p_L8w1y0"
+      },
+      {
+        "title": "Hindi Literature Top 50 Objective Bits with Explanations",
+        "teacher": "TET Hindi Academy",
+        "duration": "50 min",
+        "youtubeId": "Hi9p_Q8z9v8"
+      }
+    ]
+  },
+  "hin_p2_t3": {
+    "topicId": "hin_p2_t3",
+    "name": "हिंदी शिक्षण विधियाँ (Hindi Pedagogy)",
+    "description": "Explore the Hindi Teaching Methodologies, materials, evaluation methods with Telugu explanation.",
+    "duration": "1 hr 20 min",
+    "primaryVideo": {
+      "title": "Hindi Pedagogy Complete Audio Visual Lessons for AP TET Paper II",
+      "teacher": "Smt. Shashi Bala (ELT Senior Faculty Scholar)",
+      "duration": "1 hr 20 min",
+      "youtubeId": "Hi9b2_Ped1x",
+      "views": "39K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "Language Skills teaching in Hindi methodology",
+        "teacher": "Ali Sir Hindi classes",
+        "duration": "42 min",
+        "youtubeId": "Hi9p_P8v7z0"
+      },
+      {
+        "title": "Modern Teaching Aids and TLM for Hindi Classes",
+        "teacher": "Vikas Online Academy",
+        "duration": "35 min",
+        "youtubeId": "Hi9p_T2v8z1"
+      }
+    ]
+  },
+  "eng_p2_t1": {
+    "topicId": "eng_p2_t1",
+    "name": "Advanced Grammar & Syntax",
+    "description": "Master clausal analysis, conditionals, direct-indirect speech, and sentence synthesis for AP TET English Paper II.",
+    "duration": "1 hr 45 min",
+    "primaryVideo": {
+      "title": "Advanced English Grammar & Syntax for AP TET Paper II",
+      "teacher": "Prof. S. R. Naidu (Venkateswara University)",
+      "duration": "1 hr 45 min",
+      "youtubeId": "En9b2_Gra2x",
+      "views": "98K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "Clause Analysis & Conditional Sentences (Telugu Explanation)",
+        "teacher": "Satyanarayana English Classes",
+        "duration": "55 min",
+        "youtubeId": "En9p_C8v3c1"
+      },
+      {
+        "title": "Sentence Synthesis (Simple, Compound, Complex) Shortcuts",
+        "teacher": "English with Krishna Kishore",
+        "duration": "1 hr 02 min",
+        "youtubeId": "En9p_S2v8z0"
+      }
+    ]
+  },
+  "eng_p2_t2": {
+    "topicId": "eng_p2_t2",
+    "name": "Vocabulary & Literary Terms",
+    "description": "Understand Figures of Speech, Idioms, Phrasal verbs, Syntactic variations, and other terms for Paper II English.",
+    "duration": "1 hr 15 min",
+    "primaryVideo": {
+      "title": "Figures of Speech (Simile, Metaphor, Personification) with Telugu Meanings",
+      "teacher": "Ms. Mercy Evelyn (English Language Trainer)",
+      "duration": "1 hr 15 min",
+      "youtubeId": "En9b2_Lit2x",
+      "views": "74K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "AP TET English Top Idioms and Phrasal Verbs Class",
+        "teacher": "Perfect English Study",
+        "duration": "38 min",
+        "youtubeId": "En9p_L8w1z1"
+      },
+      {
+        "title": "Synonyms and Antonyms Mock Session Paper II Standard",
+        "teacher": "Giri Studies English",
+        "duration": "45 min",
+        "youtubeId": "En9p_V8z3w4"
+      }
+    ]
+  },
+  "eng_p2_t3": {
+    "topicId": "eng_p2_t3",
+    "name": "English Language Teaching (ELT)",
+    "description": "Comprehensive aspects of teaching English methodology, methods, approaches, and professional competency.",
+    "duration": "1 hr 55 min",
+    "primaryVideo": {
+      "title": "English Language Teaching Methodology (ELT) for School Assistants",
+      "teacher": "Dr. Rafi (ELT Trainer & Researcher)",
+      "duration": "1 hr 55 min",
+      "youtubeId": "En9b2_Ped2x",
+      "views": "88K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "Approaches, Methods and Techniques of Teaching English",
+        "teacher": "M. K. Kishore English",
+        "duration": "1 hr 08 min",
+        "youtubeId": "En9p_M2b8w1"
+      },
+      {
+        "title": "LSRW Language Skills and CCE Evaluation Concepts",
+        "teacher": "Pragathi Studies ELT",
+        "duration": "48 min",
+        "youtubeId": "En9p_Q8w9x2"
+      }
+    ]
+  },
+  "math_p2_t1": {
+    "topicId": "math_p2_t1",
+    "name": "అల్జీబ్రా & సంఖ్యలు (Algebra & Real Numbers)",
+    "description": "బీజగణిత సమీకరణాలు, వాస్తవ సంఖ్యలు, సమితులు మరియు మాత్రికల ప్రాథమిక భావనలు.",
+    "duration": "2 hr 20 min",
+    "primaryVideo": {
+      "title": "AP TET Math Paper II- అల్జీబ్రా మరియు వాస్తవ సంఖ్యలు Complete Masterclass",
+      "teacher": "ఎస్. మురళీకృష్ణ గారు (State level Math Gold Medalist)",
+      "duration": "2 hr 20 min",
+      "youtubeId": "Ma9b2_Gra3x",
+      "views": "155K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "సమితులు (Sets Complete Concepts and Textbook Solutions)",
+        "teacher": "లక్కీ మ్యాథ్స్ క్లాసెస్",
+        "duration": "1 hr 02 min",
+        "youtubeId": "Ma9p_S8v4y1"
+      },
+      {
+        "title": "బీజగణిత సమాసాల కారణాంకాలు (Algebraic Expressions Factoring)",
+        "teacher": "రమణ మ్యాథ్స్ క్లబ్",
+        "duration": "55 min",
+        "youtubeId": "Ma9p_A2b3x2"
+      }
+    ]
+  },
+  "math_p2_t2": {
+    "topicId": "math_p2_t2",
+    "name": "రేఖాగణితం & నిరూపక జ్యామితి (Geometry & Coordinate)",
+    "description": "నిరూపక రేఖాగణితం, త్రికోణమితి ప్రాథమిక సూత్రాలు మరియు వివిధ రేఖాగణిత సిద్ధాంతాల వివరణ క్లాస్.",
+    "duration": "2 hr 45 min",
+    "primaryVideo": {
+      "title": "త్రికోణమితి (Trigonometry Complete Concepts) - AP TET/DSC School Assistant Specials",
+      "teacher": "ఆర్. వీరయ్య చౌదరి గారు (Geometry Senior Coach)",
+      "duration": "2 hr 45 min",
+      "youtubeId": "Ma9b2_Geom1",
+      "views": "172K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "నిరూపక రేఖాగణితం (Coordinate Geometry Concepts & Formulas)",
+        "teacher": "సత్యమూర్తి సర్ మ్యాథ్స్",
+        "duration": "1 hr 15 min",
+        "youtubeId": "Ma9p_C8v3y1"
+      },
+      {
+        "title": "త్రిభుజాల సమరూపత సిద్ధాంతాలు (Similar Triangles Theories)",
+        "teacher": "శ్రీ సాయి మ్యాథ్స్",
+        "duration": "1 hr 10 min",
+        "youtubeId": "Ma9p_T8v9b9"
+      }
+    ]
+  },
+  "math_p2_t3": {
+    "topicId": "math_p2_t3",
+    "name": "గణాంక శాస్త్రం & సంభావ్యత (Statistics & Probability)",
+    "description": "గణాంక సగటు, మధ్యగతం, బాహుళకం మరియు సంభావ్యత ప్రాథమిక సిద్ధాంతాల విశ్లేషణ.",
+    "duration": "1 hr 35 min",
+    "primaryVideo": {
+      "title": "గణాంక శాస్త్రం మరియు సంభావ్యత (Statistics & Probability Concepts) for TET",
+      "teacher": "కె. ప్రసాదరావు గారు (Statistics Professor)",
+      "duration": "1 hr 35 min",
+      "youtubeId": "Ma9b2_Stat1",
+      "views": "125K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "Probability Complete Shortcuts & Concept Explained - TET Special",
+        "teacher": "మ్యాథ్స్ ప్యాలెస్ (Maths Palace)",
+        "duration": "50 min",
+        "youtubeId": "Ma9p_P8v2z1"
+      },
+      {
+        "title": "కేంద్ర స్థాన కొలతలు (Measures of Central Tendency Practice Bits)",
+        "teacher": "ఏపీ కెరీర్ స్టడీస్",
+        "duration": "45 min",
+        "youtubeId": "Ma9p_C8z4x0"
+      }
+    ]
+  },
+  "math_p2_t4": {
+    "topicId": "math_p2_t4",
+    "name": "గణిత బోధన పద్ధతులు (Secondary Math Pedagogy)",
+    "description": "పేపర్-2 ఉన్నత తరగతుల గణిత బోధన పద్ధతులు, ఆగమన-నిగమన సిద్ధాంతాలు, గణిత ల్యాబ్ల ప్రాధాన్యతలు.",
+    "duration": "1 hr 25 min",
+    "primaryVideo": {
+      "title": "గణిత బోధనా పద్ధతులు (Secondary Maths Pedagogy) Complete Lessons",
+      "teacher": "డా. వై. రవీంద్రనాథ్ (HOD Education Dept)",
+      "duration": "1 hr 25 min",
+      "youtubeId": "Ma9b2_Ped3x",
+      "views": "60K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "ఆగమన మరియు నిగమన పద్ధతులు సులువైన అవగాహన (Inductive-Deductive Method)",
+        "teacher": "లక్ష్మణ్ సర్ ఎడ్యుకేషన్",
+        "duration": "40 min",
+        "youtubeId": "Ma9p_I8w2x1"
+      },
+      {
+        "title": "గణిత ఉపాధ్యాయుని గుణాలు మరియు ప్రణాళిక రచన",
+        "teacher": "కల్పనా మేడం క్లాసెస్",
+        "duration": "35 min",
+        "youtubeId": "Ma9p_E8v9z1"
+      }
+    ]
+  },
+  "sci_p2_t1": {
+    "topicId": "sci_p2_t1",
+    "name": "భౌతిక అనువర్తనాలు (Physics - Light, Electricity, Heat)",
+    "description": "కాంతి వక్రీభవనం, విద్యుత్ ప్రవాహ నియమాలు, అయస్కాంత తీవ్రత మరియు ఉష్ణగతిక శాస్త్ర నియమాల సులభ వివరణ.",
+    "duration": "2 hr 15 min",
+    "primaryVideo": {
+      "title": "AP TET Physical Science Classes - కాంతి, విద్యుత్ మరియు ఉష్ణం",
+      "teacher": "కె. వెంకట్రామన్ గారు (Physics Gold Medalist)",
+      "duration": "2 hr 15 min",
+      "youtubeId": "Sc9b2_Phy1x",
+      "views": "195K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "విద్యుద్విశ్లేషణ మరియు విద్యుత్ ప్రవాహ రసాయన ఫలితాలు (Electricity Principles)",
+        "teacher": "సైన్స్ జంక్షన్ (Science Junction)",
+        "duration": "1 hr 02 min",
+        "youtubeId": "Sc9p_E8v9z1"
+      },
+      {
+        "title": "కాంతి పరావర్తనం & కిరణ రేఖాచిత్రాలు (Reflection & Ray Diagrams)",
+        "teacher": "సత్య సర్ క్లాసెస్",
+        "duration": "58 min",
+        "youtubeId": "Sc9p_L8w1y0"
+      }
+    ]
+  },
+  "sci_p2_t2": {
+    "topicId": "sci_p2_t2",
+    "name": "రసాయన శాస్త్రం (Chemistry - Matter & Elements)",
+    "description": "పరమాణు నిర్మాణం, ఆమ్లాలు-క్షారాలు-లవణాలు మరియు లోహ సంగ్రహణ శాస్త్రం యొక్క పాఠ్యపుస్తక బిట్స్ విశ్లేషణ.",
+    "duration": "1 hr 55 min",
+    "primaryVideo": {
+      "title": "రసాయన శాస్త్రం (Chemistry Complete Concepts) ఆమ్లాలు-క్షారాలు & పరమాణువు",
+      "teacher": "శ్రీ జె. రఘురామయ్య గారు (Chemistry Research Scholar)",
+      "duration": "1 hr 55 min",
+      "youtubeId": "Sc9b2_Che1x",
+      "views": "140K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "నిత్యజీవితంలో రసాయన శాస్త్ర ఉపయోగాలు (Chemistry in Everyday Life)",
+        "teacher": "రవి శేఖర్ సర్",
+        "duration": "48 min",
+        "youtubeId": "Sc9p_C8v3z1"
+      },
+      {
+        "title": "లోహాలు మరియు అలోహాలు భౌతిక రసాయన ధర్మాలు",
+        "teacher": "విద్యా అకాడమీ (Vidya Academy)",
+        "duration": "50 min",
+        "youtubeId": "Sc9p_M2b9y2"
+      }
+    ]
+  },
+  "sci_p2_t3": {
+    "topicId": "sci_p2_t3",
+    "name": "జీవ శాస్త్రం (Biology - Cell & Physiology)",
+    "description": "కణ అంగాలు, మానవ శరీరం వివిధ అవయవ వ్యవస్థలు, కిరణజన్య సంయోగ క్రియ యొక్క విజువల్ పాయింట్స్.",
+    "duration": "2 hr 30 min",
+    "primaryVideo": {
+      "title": "AP TET biological Science Complete Cell Biology & Human Physiology",
+      "teacher": "డా. వీరభద్ర శాస్త్రి గారు (Biological Science HOD)",
+      "duration": "2 hr 30 min",
+      "youtubeId": "Sc9b2_Bio1x",
+      "views": "250K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "కణ విభాగాలు - సమవిభజన మరియు క్షీణవిభజన (Cell Divisions Explained)",
+        "teacher": "శారదా బయాలజీ అకాడమీ",
+        "duration": "1 hr 10 min",
+        "youtubeId": "Sc9p_C8w2z1"
+      },
+      {
+        "title": "మానవ జీర్ణవ్యవస్థ మరియు హృదయ స్పందనల పద్ధతి",
+        "teacher": "శివ సర్ జీవ శాస్త్రం",
+        "duration": "1 hr 05 min",
+        "youtubeId": "Sc9p_P8v3z2"
+      }
+    ]
+  },
+  "sci_p2_t4": {
+    "topicId": "sci_p2_t4",
+    "name": "విజ్ఞాన శాస్త్ర బోధనా పద్ధతులు (Science Pedagogy)",
+    "description": "శాస్త్రీయ పద్ధతి (Scientific Method), సైన్స్ కిట్ నియమాలు, సైన్స్ ప్రయోగశాలల నిర్వహణ మరియు విలువల రకాలు.",
+    "duration": "1 hr 15 min",
+    "primaryVideo": {
+      "title": "సైన్స్ బోధనా పద్ధతులు (Science Pedagogy Paper 2) Complete Syllabus Class",
+      "teacher": "ఎస్. కామేశ్వరిగారు (Methodology National Trainer)",
+      "duration": "1 hr 15 min",
+      "youtubeId": "Sc9b2_Ped1x",
+      "views": "68K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "శాస్త్రీయ వైఖరి పెంపొందించడం & సైన్స్ ఎగ్జిబిషన్లు (Academic standards)",
+        "teacher": "విహాస్ కెరీర్ గైడెన్స్",
+        "duration": "42 min",
+        "youtubeId": "Sc9p_P8y1b0"
+      },
+      {
+        "title": "సైన్స్ బోధనా పరికరాలు మరియు ల్యాబ్ రిజిస్టర్ల నిర్వహణ",
+        "teacher": "భగత్ సర్ సైన్స్",
+        "duration": "38 min",
+        "youtubeId": "Sc9p_T2v3c9"
+      }
+    ]
+  },
+  "soc_p2_t1": {
+    "topicId": "soc_p2_t1",
+    "name": "భూగోళశాస్త్రం (Geography & Earth Studies)",
+    "description": "భూమి అంతర్నిర్మాణం, శీతోష్ణస్థితి మండలాలు, భారతదేశం నదులు మరియు ఆంధ్రప్రదేశ్ భౌగోళిక స్వరూపాలు.",
+    "duration": "2 hr 10 min",
+    "primaryVideo": {
+      "title": "AP TET Social studies Geography - భారతదేశం & ఆంధ్రప్రదేశ్ భౌగోళిక అంశాలు",
+      "teacher": "వి. చంద్రశేఖర్ గారు (Geography Expert & Coach)",
+      "duration": "2 hr 10 min",
+      "youtubeId": "So9b2_Geo1x",
+      "views": "180K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "భూమి అంతర్నిర్మాణం - సియాల్, సిమా, క్రోమ్ (Interior of Earth class)",
+        "teacher": "మధు సర్ సోషల్",
+        "duration": "55 min",
+        "youtubeId": "So9p_ I8v8y9"
+      },
+      {
+        "title": "వాతావరణ పొరలు - ట్రోపో, స్ట్రాటో, మెసోస్పియర్ (Atmosphere)",
+        "teacher": "జెనిత్ అకాడమీ",
+        "duration": "48 min",
+        "youtubeId": "So9p_A8v2z1"
+      }
+    ]
+  },
+  "soc_p2_t2": {
+    "topicId": "soc_p2_t2",
+    "name": "చరిత్ర - ప్రాచీన, ఆధునిక (History & Freedom Movement)",
+    "description": "సింధు లోయ నాగరికత, మౌర్య సామ్రాజ్యం, మొఘలాయిలు, భక్తి ఉద్యమం మరియు భారత జాతీయ స్వాతంత్ర్యోద్యమంలో గాంధీజీ పాత్ర.",
+    "duration": "2 hr 45 min",
+    "primaryVideo": {
+      "title": "భారత జాతీయ ఉద్యమం - 1885 నుండి 1947 వరకు Complete Dynamic History Class",
+      "teacher": "డా. సత్యనారాయణ రాజు గారు (History Legend Faculty)",
+      "duration": "2 hr 45 min",
+      "youtubeId": "So9b2_His1x",
+      "views": "290K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "సింధు నాగరికత - పతన కారణాలు & తవ్వకాల బిట్స్ (Indus Valley)",
+        "teacher": "రాణా స్టడీస్",
+        "duration": "1 hr 02 min",
+        "youtubeId": "So9p_I8w2y8"
+      },
+      {
+        "title": "ఆంధ్రప్రదేశ్ స్వాతంత్ర పోరాట చరిత్ర మరియు ముఖ్య నేతలు",
+        "teacher": "సురేంద్ర సర్ ఏపీ హిస్టరీ",
+        "duration": "1 hr 12 min",
+        "youtubeId": "So9p_A2b3c4"
+      }
+    ]
+  },
+  "soc_p2_t3": {
+    "topicId": "soc_p2_t3",
+    "name": "రాజకీయ, సామాజిక వ్యవస్థలు (Political Systems & Civics)",
+    "description": "భారత పార్లమెంటు, రాజ్యాంగ రూపకల్పన, ప్రాథమిక హక్కులు, స్థానిక స్వపరిపాలన నియమావళి.",
+    "duration": "1 hr 50 min",
+    "primaryVideo": {
+      "title": "భారత రాజ్యాంగ రూపకల్పన - ప్రవేశిక మరియు లోకసభ నిర్మాణం",
+      "teacher": "కె. వెంకటరమణయ్య గారు (Senior Civics Trainer)",
+      "duration": "1 hr 50 min",
+      "youtubeId": "So9b2_Civ1x",
+      "views": "150K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "భారత సుప్రీంకోర్టు నిర్మాణం - పరిధులు (Indian Judiciary System)",
+        "teacher": "పాలిటీ లవర్స్ (Polity Lovers)",
+        "duration": "52 min",
+        "youtubeId": "So9p_J8u9z3"
+      },
+      {
+        "title": "మానవ హక్కులు మరియు ప్రాథమిక విధులు వివరణ",
+        "teacher": "లక్ష్మణ్ సార్ రాజ్యాంగం",
+        "duration": "45 min",
+        "youtubeId": "So9p_R8v2z2"
+      }
+    ]
+  },
+  "soc_p2_t4": {
+    "topicId": "soc_p2_t4",
+    "name": "సాంఘిక శాస్త్ర బోధనా పద్ధతులు (Social Pedagogy)",
+    "description": "సాంఘిక శాస్త్ర బోధన విధానాలు, వనరులు, పాఠ్య గ్రంథాల సమీక్ష, నిరంతర మూల్యాంకనం పేపర్-2 స్పెషల్.",
+    "duration": "1 hr 20 min",
+    "primaryVideo": {
+      "title": "సాంఘిక శాస్త్ర బోధనా పద్ధతులు (Social Methodology) Summary class",
+      "teacher": "ప్రొఫెసర్ వి. వినాయక చౌదరి (Pedagogy HOD)",
+      "duration": "1 hr 20 min",
+      "youtubeId": "So9b2_Ped1x",
+      "views": "74K views"
+    },
+    "additionalVideos": [
+      {
+        "title": "సాంఘిక శాస్త్ర బోధనోద్యమ పద్ధతులు - ప్రాజెక్ట్ పనులు మరియు ఉపన్యాసం",
+        "teacher": "సత్యనారాయణ మెథడాలజీ ఉపన్యాసాలు",
+        "duration": "40 min",
+        "youtubeId": "So9p_P8v1z9"
+      },
+      {
+        "title": "నిరంతర సమగ్ర మూల్యాంకనం (Social Pedagogy CCE)",
+        "teacher": "శారదా స్టడీస్",
+        "duration": "35 min",
+        "youtubeId": "So9p_Q2v9z1"
+      }
+    ]
+  }
+}

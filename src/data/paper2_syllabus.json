@@ -1,0 +1,124 @@
+{
+  "Telugu": [
+    {
+      "id": "tel_p2_t1",
+      "name": "భాష - అవగాహన (Language Comprehension)",
+      "subtopics": ["అపరిచిత గద్యం & పద్యం", "సందర్భ సహిత వాక్యాలు", "భాషాపరిజ్ఞానం"]
+    },
+    {
+      "id": "tel_p2_t2",
+      "name": "తెలుగు సాహిత్యం, కావ్యాలు & కవులు (Telugu Heritage & Poets)",
+      "subtopics": ["ప్రాచీన మరియు ఆధునిక కవులు", "శతక సాహిత్యం (Sataka Literature)", "నవల, నాటకం, కథానిక ప్రక్రియలు"]
+    },
+    {
+      "id": "tel_p2_t3",
+      "name": "వ్యాకరణాంశాలు (Advanced Grammar)",
+      "subtopics": ["సంధులు (సంస్కృత & తెలుగు సంధులు)", "సమాసాలు (ద్వంద్వ, ద్విగు, బహువ్రీహి మొదలైనవి)", "అలంకారాలు (శబ్ద & అర్థాలంకారాలు)", "ఛందస్సు (వృత్తాలు, జాతులు, ఉపజాతులు)"]
+    },
+    {
+      "id": "tel_p2_t4",
+      "name": "తెలుగు బోధనా పద్ధతులు (Telugu Pedagogy)",
+      "subtopics": ["మాతృభాష బోధన ఉద్దేశాలు", "బోధనా పద్ధతులు & టి.ఎల్.ఎమ్", "నిరంతర సమగ్ర మూల్యాంకనం (CCE)"]
+    }
+  ],
+  "Hindi": [
+    {
+      "id": "hin_p2_t1",
+      "name": "भाषा ज्ञान और व्याकरण (Hindi Grammar)",
+      "subtopics": ["संज्ञा, सर्वनाम, विशेषण, क्रिया, काल", "संधि और समास", "पर्यायवाची और विलोम शब्द"]
+    },
+    {
+      "id": "hin_p2_t2",
+      "name": "हिंदी साहित्य और रचनाकार (Literature & Authors)",
+      "subtopics": ["प्रसिद्ध कवि और लेखक", "हिंदी भाषा का इतिहास", "काव्य शास्त्र"]
+    },
+    {
+      "id": "hin_p2_t3",
+      "name": "हिंदी शिक्षण विधियाँ (Hindi Pedagogy)",
+      "subtopics": ["भाषा कौशल शिक्षण", "शिक्षण सामग्री", "मूल्यांकन"]
+    }
+  ],
+  "English": [
+    {
+      "id": "eng_p2_t1",
+      "name": "Advanced Grammar & Syntax",
+      "subtopics": ["Tenses and Conditionals", "Voice, Reported Speech & Auxiliaries", "Clausal Analysis & Sentence Synthesis"]
+    },
+    {
+      "id": "eng_p2_t2",
+      "name": "Vocabulary & Literary Terms",
+      "subtopics": ["Idioms and Phrases", "Synonyms, Antonyms, Analogies", "Figures of Speech (Simile, Metaphor, Personification)"]
+    },
+    {
+      "id": "eng_p2_t3",
+      "name": "English Language Teaching (ELT)",
+      "subtopics": ["Methods and Approaches to ELT", "Language Skills (LSRW) & Study Skills", "English Teacher & Professional Development"]
+    }
+  ],
+  "Mathematics": [
+    {
+      "id": "math_p2_t1",
+      "name": "అల్జీబ్రా & సంఖ్యలు (Algebra & Real Numbers)",
+      "subtopics": ["బీజగణిత సమాసాలు & సమీకరణాలు", "కరణీయ & సమితులు (Sets & Irrationals)", "మత్రికలు (Matrices) ప్రాథమికాలు"]
+    },
+    {
+      "id": "math_p2_t2",
+      "name": "రేఖాగణితం & నిరూపక జ్యామితి (Geometry && Coordinate)",
+      "subtopics": ["నిరూపక రేఖాగణితం (Coordinate Geometry)", "త్రికోణమితి (Trigonometry) ప్రాథమికాలు", "త్రిభుజాలు, చతుర్భుజాలు సిద్ధాంతాలు"]
+    },
+    {
+      "id": "math_p2_t3",
+      "name": "గణాంక శాస్త్రం & సంభావ్యత (Statistics & Probability)",
+      "subtopics": ["గణాంక సగటు, మధ్యగతం, బాహుళకం", "సంభావ్యత సిద్ధాంతాలు (Probability Basics)", "కేంద్ర స్థాన కొలతలు (Central Tendency)"]
+    },
+    {
+      "id": "math_p2_t4",
+      "name": "గణిత బోధన పద్ధతులు (Secondary Math Pedagogy)",
+      "subtopics": ["బోధన పద్ధతులు (ఆగమన, నిగమన, విశ్లేషణ)", "గణిత ప్రయోగశాల (Math Lab)", "గణిత ఉపాధ్యాయుని పాత్ర"]
+    }
+  ],
+  "Science": [
+    {
+      "id": "sci_p2_t1",
+      "name": "భౌతిక అనువర్తనాలు (Physics - Light, Electricity, Heat)",
+      "subtopics": ["కాంతి పరావర్తనం & వక్రీభవనం", "విద్యుత్ ప్రవాహం & అయస్కాంతత్వం", "ఉష్ణం మరియు ఉష్ణగతిక శాస్త్రం"]
+    },
+    {
+      "id": "sci_p2_t2",
+      "name": "రసాయన శాస్త్రం (Chemistry - Matter & Elements)",
+      "subtopics": ["పదార్థాలు - పరమాణు నిర్మాణం", "ఆమ్లాలు, క్షారాలు మరియు లవణాలు", "లోహ సంగ్రహణ శాస్త్రం (Metallurgy)"]
+    },
+    {
+      "id": "sci_p2_t3",
+      "name": "జీవ శాస్త్రం (Biology - Cell & Physiology)",
+      "subtopics": ["కణ నిర్మాణం మరియు విధి (Cell Structure)", "మానవ శరీరం - అవయవ వ్యవస్థలు", "మొక్కల శ్వాసక్రియ & కిరణజన్య సంయోగ క్రియ"]
+    },
+    {
+      "id": "sci_p2_t4",
+      "name": "విజ్ఞాన శాస్త్ర బోధనా పద్ధతులు (Science Pedagogy)",
+      "subtopics": ["సైన్స్ బోధన లక్ష్యాలు మరియు స్పష్టీకరణలు", "శాస్త్రీయ పద్ధతి (Scientific Method)", "సైన్స్ కిట్ మరియు ప్రయోగాలు"]
+    }
+  ],
+  "Social Studies": [
+    {
+      "id": "soc_p2_t1",
+      "name": "భూగోళశాస్త్రం (Geography & Earth Studies)",
+      "subtopics": ["భూమి అంతర్నిర్మాణం (Interior of Earth)", "భారతదేశం - ఆంధ్రా భౌగోళిక స్వరూపాలు", "శీతోష్ణస్థితి మరియు వాతావరణం"]
+    },
+    {
+      "id": "soc_p2_t2",
+      "name": "చరిత్ర - ప్రాచీన, ఆధునిక (History & Freedom Movement)",
+      "subtopics": ["సింధు నాగరికత & సామ్రాజ్యాలు", "భారత స్వాతంత్ర్యోద్యమం & గాంధీ యుగం", "ఆంధ్రప్రదేశ్ హిస్టరీ ప్రాథమికాలు"]
+    },
+    {
+      "id": "soc_p2_t3",
+      "name": "రాజకీయ, సామాజిక వ్యవస్థలు (Political Systems & Civics)",
+      "subtopics": ["భారత రాజ్యాంగ రూపకల్పన - ప్రవేశిక", "పార్లమెంటు - న్యాయవ్యవస్థ", "మానవ హక్కులు మరియు సామాజిక న్యాయం"]
+    },
+    {
+      "id": "soc_p2_t4",
+      "name": "సాంఘిక శాస్త్ర బోధనా పద్ధతులు (Social Pedagogy)",
+      "subtopics": ["సాంఘిక శాస్త్రం స్వభావం", "బోధనా పద్ధతులు - వనరులు", "పరీక్ష మరియు మూల్యాంకన పద్ధతులు"]
+    }
+  ]
+}

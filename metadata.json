@@ -1,0 +1,6 @@
+{
+  "name": "AP TET Telugu Prep",
+  "description": "Andhra Pradesh Teacher Eligibility Test (AP TET) preparation platform entirely in Telugu learning resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,307 @@
+{
+  "Child Development & Pedagogy": [
+    {
+      "id": "cdp_p1_t1",
+      "name": "శిశు వికాసం అవగాహన (Understanding a Child)",
+      "subtopics": ["వికాసం భావన (Concept of Development)", "వికాస సూత్రాలు (Principles of Development)", "అనువంశికత - పరిసరాలు (Heredity & Environment)"]
+    },
+    {
+      "id": "cdp_p1_t2",
+      "name": "బాల్య దశ భావనలు (Constructs of Childhood)",
+      "subtopics": ["వివిద దశలు (Stages of Childhood)", "శారీరక, మానసిక వికాసం (Physical & Mental Development)"]
+    },
+    {
+      "id": "cdp_p1_t3",
+      "name": "దత్తాంశ సేకరణ పద్ధతులు (Methods and Techniques of Data Collection)",
+      "subtopics": ["పరిశీలన (Observation)", "కేస్ స్టడీ (Case Study)", "ప్రాయోగిక పద్ధతి (Experimental Method)", "పరిపృచ్ఛ (Interview)"]
+    },
+    {
+      "id": "cdp_p1_t4",
+      "name": "వికాస దృక్పథాలు (Perspectives in Development)",
+      "subtopics": ["వికాస దృక్పథాల అధ్యయనం (Study of Development Perspectives)"]
+    },
+    {
+      "id": "cdp_p1_t5",
+      "name": "సామాజిక వికాసం (Social Development)",
+      "subtopics": ["సాంఘికీకరణ ప్రక్రియ (Socialization)", "కుటుంబం, పాఠశాల మరియు తోటి సమూహం (Family, School, Peers)"]
+    },
+    {
+      "id": "cdp_p1_t6",
+      "name": "ఉద్వేగ వికాసం (Emotional Development)",
+      "subtopics": ["ఉద్వేగాల నియంత్రణ (Emotional Control)", "ఉద్వేగ పరిపక్వత (Emotional Maturity)"]
+    },
+    {
+      "id": "cdp_p1_t7",
+      "name": "భాషా వికాసం (Language Development)",
+      "subtopics": ["భాషా గ్రహణ సిద్ధాంతాలు (Language Acquisition)", "భాషా నైపుణ్యాల దశలు (Stages of Language Skills)"]
+    },
+    {
+      "id": "cdp_p1_t8",
+      "name": "నైతిక వికాసం (Moral Development)",
+      "subtopics": ["కోల్బర్గ్ నైతిక వికాసం (Kohlberg's Moral Development)", "నైతిక నియమ నిబంధనలు"]
+    },
+    {
+      "id": "cdp_p1_t9",
+      "name": "ఆట మరియు వికాసం (Play and Development)",
+      "subtopics": ["ఆటల రకాలు (Types of Play)", "వికాసంలో ఆటల ప్రాధాన్యత (Importance of Play in Development)"]
+    },
+    {
+      "id": "cdp_p1_t10",
+      "name": "స్వీయ భావన (Sense of Self)",
+      "subtopics": ["ఆత్మ భావన (Self-Concept)", "ఆత్మగౌరవం మరియు గుర్తింపు (Self-Esteem & Identity)"]
+    },
+    {
+      "id": "cdp_p1_t11",
+      "name": "జ్ఞానాత్మకత (Cognition)",
+      "subtopics": ["జ్ఞానాత్మక వికాస ప్రక్రియలు (Cognitive Processes)", "ఆలోచన - భావనలు (Thinking & Reasoning)"]
+    },
+    {
+      "id": "cdp_p1_t12",
+      "name": "ప్రజ్ఞ (Intelligence)",
+      "subtopics": ["ప్రజ్ఞా నిర్వచనాలు (Definitions of Intelligence)", "బహుళ ప్రజ్ఞా సిద్ధాంతం (Gardner's Multiple Intelligences)", "ప్రజ్ఞాలబ్ధి (IQ)"]
+    },
+    {
+      "id": "cdp_p1_t13",
+      "name": "పియాజే జ్ఞానాత్మక సిద్ధాంతం (Piaget)",
+      "subtopics": ["జ్ఞానాత్మక వికాస దశలు (Cognitive Development Stages)", "స్వీకరణ, అనుగుణ్యత, సమతుల్యత"]
+    },
+    {
+      "id": "cdp_p1_t14",
+      "name": "వైగోట్స్కీ సామాజిక సంస్కృతి సిద్ధాంతం (Vygotsky)",
+      "subtopics": ["సాంస్కృతిక చారిత్రక సిద్ధాంతం", "సమీప వికాస మండలం (ZPD)", "సహకార అభ్యసనం (Scaffolding)"]
+    },
+    {
+      "id": "cdp_p1_t15",
+      "name": "బ్రూనర్ బోధనా సిద్ధాంతం (Bruner)",
+      "subtopics": ["ఆవిష్కరణ అభ్యసనం (Discovery Learning)", "జ్ఞానాత్మక ప్రాతినిధ్య దశలు (Enactive, Iconic, Symbolic)"]
+    },
+    {
+      "id": "cdp_p1_t16",
+      "name": "ప్రవర్తనావాదం (Behaviourism)",
+      "subtopics": ["వాట్సన్ ప్రవర్తనావాదం", "నిబంధన సిద్ధాంతాలు (Conditioning Theories)"]
+    },
+    {
+      "id": "cdp_p1_t17",
+      "name": "అнуభవపూర్వక అభ్యసనం (Experiential Learning)",
+      "subtopics": ["కోల్బ్ అనుభవపూర్వక అభ్యసన చక్రం (Kolb's Cycle)", "అనుభవపూర్వక తరగతి గది అన్వయం"]
+    },
+    {
+      "id": "cdp_p1_t18",
+      "name": "మూర్తిమత్వం (Personality)",
+      "subtopics": ["మూర్తిమత్వ రకాలు (Types of Personality)", "మూర్తిమత్వాన్ని నిర్ధారించే కారకాలు (Factors of Personality)"]
+    },
+    {
+      "id": "cdp_p1_t19",
+      "name": "అభ్యసనం అవగాహన (Understanding Learning)",
+      "subtopics": ["అభ్యసనం నిర్వచనాలు (Definitions of Learning)", "అభ్యసన ప్రక్రియ మరియు స్వభావం"]
+    },
+    {
+      "id": "cdp_p1_t20",
+      "name": "అభ్యసన సిద్ధాంతాలు (Learning Theories)",
+      "subtopics": ["శాస్త్రీయ నిబంధన (Classical Conditioning)", "కార్యసాధక నిబంధన (Operant Conditioning)", "యత్నదోష అభ్యసనం (Trial & Error)"]
+    },
+    {
+      "id": "cdp_p1_t21",
+      "name": "అభ్యసన బదలాయింపు (Transfer of Learning)",
+      "subtopics": ["అనుకూల, ప్రతికూల, శూన్య బదలాయింపు", "బదలాయింపు సిద్ధాంతాలు (Theories of Transfer)"]
+    },
+    {
+      "id": "cdp_p1_t22",
+      "name": "సమగ్ర విద్యా విధానం (Inclusive Education)",
+      "subtopics": ["సమగ్ర విద్యా భావన (Concept of Inclusive Education)", "వైవిధ్యభరిత అభ్యసన అవసరాలు"]
+    },
+    {
+      "id": "cdp_p1_t23",
+      "name": "ప్రత్యేక అవసరాలు గల పిల్లలు (Special Needs)",
+      "subtopics": ["దివ్యాంగుల విద్య (Education for CWSN)", "అభ్యసన వైకల్యాలు (Dyslexia, Dyscalculia)"]
+    },
+    {
+      "id": "cdp_p1_t24",
+      "name": "పెడగాజీ (Pedagogy)",
+      "subtopics": ["బోధనా కళ (Art of Teaching)", "బోధనా పద్ధతులు (Teaching Methods and Approaches)"]
+    },
+    {
+      "id": "cdp_p1_t25",
+      "name": "విమర్శనాత్మక పెడగాజీ (Critical Pedagogy)",
+      "subtopics": ["పాలో ఫ్రెయిరీ భావనలు (Paulo Freire's Concepts)", "తరగతి గదిలో విమర్శనాత్మక ఆలోచన"]
+    },
+    {
+      "id": "cdp_p1_t26",
+      "name": "విద్యా తత్వవేత్తలు (Educational Thinkers)",
+      "subtopics": ["గాంధీజీ, ఠాగూర్, గిజుభాయ్ బధేకా", "రూసో, ప్రొబెల్, మాంటిస్సోరి విద్యా విధానాలు"]
+    },
+    {
+      "id": "cdp_p1_t27",
+      "name": "ఐసీటీ ప్రాథమికాంశాలు (ICT Fundamentals)",
+      "subtopics": ["కంప్యూటర్ పరిజ్ఞానం (Computer Basics)", "సాఫ్ట్‌వేర్ - హార్డ్‌వేర్ (Software & Hardware Basics)"]
+    },
+    {
+      "id": "cdp_p1_t28",
+      "name": "ఐసీటీ సమగ్రత (ICT Integration)",
+      "subtopics": ["బోధనలో సాంకేతికత వినియోగం", "సమగ్ర సాంకేతిక తరగతి గది (ICT in Classroom)"]
+    },
+    {
+      "id": "cdp_p1_t29",
+      "name": "మూల్యాంకనం మరియు అంచనా (Assessment)",
+      "subtopics": ["నిరంతర సమగ్ర మూల్యాంకనం (CCE)", "నిర్మాణాత్మక & సంగ్రహణాత్మక మూల్యాంకనం (FA & SA)"]
+    },
+    {
+      "id": "cdp_p1_t30",
+      "name": "సైబర్ భద్రత (Cyber Security)",
+      "subtopics": ["ఆన్‌లైన్ భద్రత (Online Safety)", "డిజిటల్ పౌరసత్వం (Digital Citizenship)", "సైబర్ నేరాల నివారణ"]
+    },
+    {
+      "id": "cdp_p1_t31",
+      "name": "మూక్స్ (MOOCs)",
+      "subtopics": ["ఆన్‌లైన్ ఉచిత కోర్సులు (Massive Open Online Courses)", "స్వయం (SWAYAM) మరియు ఇతర పోర్టల్స్"]
+    },
+    {
+      "id": "cdp_p1_t32",
+      "name": "దీక్షా పోర్టల్ (DIKSHA)",
+      "subtopics": ["డిజిటల్ ఇన్‌ఫ్రాస్ట్రక్చర్ ఫర్ నాలెడ్జ్ షేరింగ్ (DIKSHA Portal)", "ఉపాధ్యాయ మరియు విద్యార్థి ఇ-రిసోర్సెస్"]
+    },
+    {
+      "id": "cdp_p1_t33",
+      "name": "కాన్వా డిజైన్ టూల్ (Canva)",
+      "subtopics": ["విజువల్ కంటెంట్ సృష్టి (Creating Educational Posters)", "ప్రెజెంటేషన్ రూపకల్పన (Designing Presentation)"]
+    },
+    {
+      "id": "cdp_p1_t34",
+      "name": "మూడుల్ ఎల్.ఎమ్.ఎస్ (Moodle)",
+      "subtopics": ["అభ్యసన నిర్వహణ వ్యవస్థ (Learning Management System)", "ఆన్‌లైన్ అసైన్‌మెంట్లు & క్విజ్‌లు"]
+    },
+    {
+      "id": "cdp_p1_t35",
+      "name": "ఉపాధ్యాయ వృత్తిపరమైన అభివృద్ధి (Teacher Development)",
+      "subtopics": ["ఉపాధ్యాయ శిక్షణ (Teacher Training)", "వృత్తిపరమైన ప్రవర్తనా నియమావళి (Professional Ethics)"]
+    }
+  ],
+  "Telugu": [
+    {
+      "id": "tel_p1_t1",
+      "name": "పఠనావగాహన - అపరిచిత పద్యం, అపరిచిత గద్యం (Reading Comprehension, Poetry & Prose)",
+      "subtopics": ["అపరిచిత పద్యం (Unseen Poem)", "అపరిచిత గద్యం (Unseen Prose)"]
+    },
+    {
+      "id": "tel_p1_t2",
+      "name": "తెలుగు సాహిత్యం మరియు కవులు (Telugu Literature & Poets)",
+      "subtopics": ["కవులు - పరిచయాలు (Poets Introduction)", "పాత్రలు - నేపథ్యాలు (Characters & Themes)", "గ్రంథాలు - రచయితలు (Texts & Authors)"]
+    },
+    {
+      "id": "tel_p1_t3",
+      "name": "పదజాలం (Telugu Vocabulary)",
+      "subtopics": ["అర్థాలు (Meanings)", "పర్యాయపదాలు (Synonyms)", "నానార్థాలు (Homonyms)", "ఉత్పత్తి అర్థాలు", "ప్రకృతి-వికృతి (Origin-Derivative)", "జాతీయాలు", "సామెతలు"]
+    },
+    {
+      "id": "tel_p1_t4",
+      "name": "తెలుగు సంధులు మరియు సమాసాలు (Telugu Sandhulu & Samasalu)",
+      "subtopics": ["సంధులు (Sandhi)", "సమాసాలు (Samasamu)", "తెలుగు మరియు సంస్కృత సంధులు", "ద్వంద్వ, ద్విగు, బహువ్రీహి సమాసాలు"]
+    },
+    {
+      "id": "tel_p1_t5",
+      "name": "అలంకారాలు మరియు ఛందస్సు (Alankaramu & Chandassu)",
+      "subtopics": ["అలంకారాలు (Alankaramu)", "ఛందస్సు (Chandassu)", "శబ్దాలంకారాలు", "అర్థాలంకారాలు", "వృత్తాలు, జాతులు, ఉపజాతులు"]
+    },
+    {
+      "id": "tel_p1_t6",
+      "name": "భాషా భాగాలు & వ్యాకరణ అంశాలు (Grammar - Parts of Speech, Sentences & Verbs)",
+      "subtopics": ["భాషా భాగాలు (Parts of Speech)", "క్రియలు - రకాలు (Verbs & Types)", "వాక్యాలు - భేదాలు (Sentences & Types)"]
+    },
+    {
+      "id": "tel_p1_t7",
+      "name": "తెలుగు బోధనా పద్ధతులు (Telugu Pedagogy / Teaching Methodology)",
+      "subtopics": ["భాషా నైపుణ్యాలు (Language Skills)", "బోధన పద్ధతులు (Teaching Methods)", "ప్రణాళిక రచన (Lesson Planning)"]
+    }
+  ],
+  "English": [
+    {
+      "id": "eng_p1_t1",
+      "name": "Parts of Speech & Grammar (భాషా భాగాలు & వ్యాకరణం)",
+      "subtopics": ["Nouns, Pronouns, Verbs, Adjectives, Adverbs", "Articles and Prepositions", "Conjunctions and Interjections"]
+    },
+    {
+      "id": "eng_p1_t2",
+      "name": "Vocabulary, Synonyms & Antonyms (పదజాలం)",
+      "subtopics": ["Synonyms & Antonyms", "Homophones & Homonyms", "One-word Substitutes", "Phrasal Verbs & Idioms", "Dictionary Skills"]
+    },
+    {
+      "id": "eng_p1_t3",
+      "name": "Tenses, Voice & Reported Speech (కాలాలు & ప్రయోగాలు)",
+      "subtopics": ["Simple, Continuous, and Perfect Tenses", "Active and Passive Voice", "Direct and Indirect Speech", "Sentence Synthesis & Transformation"]
+    },
+    {
+      "id": "eng_p1_t4",
+      "name": "Reading Comprehension & Writing Skills (పఠనావగాహన & లేఖనం)",
+      "subtopics": ["Reading Comprehension Passage", "Punctuation and Capitalization", "Spelling Rules & Word Correction"]
+    },
+    {
+      "id": "eng_p1_t5",
+      "name": "English Methodology & Pedagogy (బోధనా పద్ధతులు)",
+      "subtopics": ["Aspects of English Language & Teaching", "Objectives of Teaching English", "Methods and Approaches", "Continuous Comprehensive Evaluation (CCE)", "Teaching Aids & Lesson Plans"]
+    }
+  ],
+  "Mathematics": [
+    {
+      "id": "math_p1_t1",
+      "name": "సంఖ్యా వ్యవస్థ (Number System & Numbers)",
+      "subtopics": ["సహజ, పూర్ణ, హేతుబద్ధ సంఖ్యలు", "క.సా.గు & గ.సా.భా (LCM & HCF)", "భాగహార సూత్రాలు & కారణాంకాలు (Divisibility Rules & Factors)"]
+    },
+    {
+      "id": "math_p1_t2",
+      "name": "అంకగణితం (Arithmetic)",
+      "subtopics": ["निష్పత్తి మరియు అనుపాతం (Ratio & Proportion)", "శాతాలు (Percentages)", "లాభనష్టాలు (Profit & Loss)", "సరళ వడ్డీ (Simple Interest)", "కాలము, వేగము, దూరం"]
+    },
+    {
+      "id": "math_p1_t3",
+      "name": "రేఖాగణితం (Geometry)",
+      "subtopics": ["కోణాలు మరియు త్రిభుజాలు (Angles & Triangles)", "రేఖలు మరియు కోణాల ధర్మాలు", "చతుర్భుజాలు, వృత్తాలు"]
+    },
+    {
+      "id": "math_p1_t4",
+      "name": "బీజగణితం (Algebra)",
+      "subtopics": ["బీజగణిత సమాసాలు (Algebraic Expressions)", "రేఖీయ సమీకరణాలు (Linear Equations)", "బీజగణిత నియమాలు"]
+    },
+    {
+      "id": "math_p1_t5",
+      "name": "క్షేత్రమితి (Mensuration)",
+      "subtopics": ["వైశాల్యాలు & చుట్టుకొలతలు (Area & Perimeter)", "ఘనపరిమాణాలు & ఉపరితల వైశాల్యాలు (Volume & Surface Area)"]
+    },
+    {
+      "id": "math_p1_t6",
+      "name": "దత్తాంశ నిర్వహణ (Data Handling & Statistics)",
+      "subtopics": ["దత్తాంశాల వర్గీకరణ", "గణాంక సగటు, మధ్యగతం, బాహుళకం", "ప్రాథమిక సంభావ్యత", "రేఖాచిత్రాలు & గ్రాఫ్‌లు"]
+    },
+    {
+      "id": "math_p1_t7",
+      "name": "గణిత బోధనా పద్ధతులు (Mathematics Pedagogy)",
+      "subtopics": ["గణితం స్వభావం మరియు పరిధి", "గణిత బోధన ఉద్దేశ్యాలు (Objectives)", "బోధనా పద్ధతులు మరియు టి.ఎల్.ఎమ్ (Teaching Aids & TLM)"]
+    }
+  ],
+  "Environmental Studies": [
+    {
+      "id": "evs_p1_t1",
+      "name": "విజ్ఞాన శాస్త్రం - జీవ ప్రపంచం (Science - Living World & Plants/Animals)",
+      "subtopics": ["మొక్కలు మరియు జంతువులు (Plants & Animals)", "మన ఆహారం - ఆరోగ్యం (Food & Health)", "ఆవాసాలు (Habitats)", "మానవ అవయవ వ్యవస్థలు"]
+    },
+    {
+      "id": "evs_p1_t2",
+      "name": "విజ్ఞాన శాస్త్రం - పదార్థాలు & శక్తులు (Science - Matter, Light, Force, Heat)",
+      "subtopics": ["పదార్థాలు - పరమాణు నిర్మాణం", "ఆమ్లాలు, క్షారాలు మరియు లవణాలు", "కాంతి, విద్యుత్, ఉష్ణ అనువర్తనాలు"]
+    },
+    {
+      "id": "evs_p1_t3",
+      "name": "భూగోళశాస్త్రం & సహజ వనరులు (Social Studies - Earth, Air, Water, Solar System)",
+      "subtopics": ["గాలి మరియు నీరు (Air & Water)", "భూమి అంతర్నిర్మాణం (Interior of Earth)", "శీతోష్ణస్థితి మరియు వాతావరణం", "సౌర కుటుంబం (Solar System)"]
+    },
+    {
+      "id": "evs_p1_t4",
+      "name": "చరిత్ర, పౌరశాస్త్రం & రాజ్యాంగం (Social Studies - Constitution, History, Civics)",
+      "subtopics": ["ప్రాథమిక హక్కులు - విధులు (Rights & Duties)", "స్థానిక స్వపరిపాలన (Local Self-Government)", "భారత రాజ్యాంగ రూపకల్పన", "స్వాతంత్ర్యోద్యమం ప్రాథమికాలు"]
+    },
+    {
+      "id": "evs_p1_t5",
+      "name": "పరిసరాల విజ్ఞాన బోధనా పద్ధతులు (EVS Pedagogy & Methodology)",
+      "subtopics": ["EVS బోధన ఉద్దేశాలు", "పరిశోధన పద్ధతులు - ప్రాజెక్ట్ పనులు", "మూల్యాంకనం (Evaluation)"]
+    }
+  ]
+}

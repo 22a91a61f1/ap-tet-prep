@@ -1,0 +1,142 @@
+[
+  {
+    "id": "m_tel_1",
+    "subject": "Telugu",
+    "difficulty": "Easy",
+    "paperType": "AP TET Paper I (Classes 1–5)",
+    "question": "కింది ముక్కల్లో దేనికి 'సమాపక క్రియ' కలదు?",
+    "options": ["రాముడు ఇంటికి వచ్చి", "లత వంట చేసి", "కృష్ణుడు పాలు తాగాడు", "గోపి సినిమా చూస్తూ"],
+    "answer": "కృష్ణుడు పాలు తాగాడు",
+    "explanation": "వాక్యం యొక్క పని పూర్తి అయినట్లు తెలిపే పదాన్ని సమాపక క్రియ అంటారు (తాగాడు అనేది పూర్తి అయిన పనిని తెలుపుతుంది)."
+  },
+  {
+    "id": "m_tel_2",
+    "subject": "Telugu",
+    "difficulty": "Medium",
+    "paperType": "AP TET Paper I (Classes 1–5)",
+    "question": "వృద్ధోపనిషత్ నందు గల సంధి ఏది?",
+    "options": ["సవర్ణదీర్ఘ సంధి", "గుణ సంధి", "వృద్ధి సంధి", "యణాదేశ సంధి"],
+    "answer": "వృద్ధి సంధి",
+    "explanation": "వృద్ధ + ఉపనిషత్. అది గుణ సంధి అగుటకు అవకాశం కలదా? వృద్ధ + ఉపనిషత్ = వృద్ధోపనిషత్ (అ + ఉ = ఓ). ఇది గుణ సంధి యొక్క సూత్రము."
+  },
+  {
+    "id": "m_tel_3",
+    "subject": "Telugu",
+    "difficulty": "Hard",
+    "paperType": "AP TET Paper II (Classes 6–8)",
+    "question": "దూరం నుండి చూస్తూ 'అయ్యో నీ తాత ఎంత మంచివాడో' అనడం కింది దేని కిందకు వస్తుంది?",
+    "options": ["ఉపమా అలంకారం", "ఉత్ప్రేక్షా അలంకారం", "సందేహా సంభావ్య రూపం", "అర్థాంతరన్యాస అలంకారం"],
+    "answer": "అర్థాంతరన్యాస అలంకారం",
+    "explanation": "సాధారణ విషయాన్ని విశేష విషయంతో కానీ, విశేష విషయాన్ని సాధారణ విషయంతో కానీ సమర్ధించి మాట్లాడితే అర్థాంతరన్యాస అలంకారం అంటారు."
+  },
+  {
+    "id": "m_eng_1",
+    "subject": "English",
+    "difficulty": "Easy",
+    "paperType": "AP TET Paper I (Classes 1–5)",
+    "question": "Choose the noun phrase in: 'The small black dog barked at the stranger.'",
+    "options": ["barked at the stranger", "The small black dog", "barked", "stranger"],
+    "answer": "The small black dog",
+    "explanation": "A noun phrase consists of a noun and all its modifiers. Here 'The small black dog' is the subject noun phrase."
+  },
+  {
+    "id": "m_eng_2",
+    "subject": "English",
+    "difficulty": "Medium",
+    "paperType": "AP TET Paper I (Classes 1–5)",
+    "question": "Fill with correct preposition: 'She has been suffering ______ fever for three days.'",
+    "options": ["with", "by", "from", "for"],
+    "answer": "from",
+    "explanation": "The verb 'suffering' is followed by the preposition 'from' when referencing illnesses."
+  },
+  {
+    "id": "m_eng_3",
+    "subject": "English",
+    "difficulty": "Hard",
+    "paperType": "AP TET Paper II (Classes 6–8)",
+    "question": "Identify the non-finite clause in the sentence: 'Having finished his homework, Ram went to bed.'",
+    "options": ["Ram went to bed", "went to bed", "Having finished his homework", "homework, Ram went"],
+    "answer": "Having finished his homework",
+    "explanation": "'Having finished his homework' is a perfect participle clause, which is a type of non-finite clauses because it has no finite verb."
+  },
+  {
+    "id": "m_math_1",
+    "subject": "Mathematics",
+    "difficulty": "Easy",
+    "paperType": "AP TET Paper I (Classes 1–5)",
+    "question": "ఒక రాంబస్ (Rhomubus) లో కర్ణాలు 12 సెం.మీ మరియు 16 సెం.మీ పొడవు ఉంటే, దాని వైశాల్యం ఎంత?",
+    "options": ["192 చ.సెం.మీ", "96 చ.సెం.మీ", "48 చ.సెం.మీ", "144 చ.సెం.మీ"],
+    "answer": "96 చ.సెం.మీ",
+    "explanation": "రాంబస్ వైశాల్యం సూత్రం = 1/2 * d1 * d2. ఇక్కడ 1/2 * 12 * 16 = 96 చదరపు సెంటీమీటర్లు."
+  },
+  {
+    "id": "m_math_2",
+    "subject": "Mathematics",
+    "difficulty": "Medium",
+    "paperType": "AP TET Paper I (Classes 1–5)",
+    "question": "ఒక వస్తువును రూ. 450 కి అమ్మడం వల్ల 10% నష్టం వచ్చింది. 20% లాభం పొందాలంటే ఎంత ధరకు అమ్మాలి?",
+    "options": ["రూ. 540", "రూ. 600", "రూ. 500", "రూ. 480"],
+    "answer": "రూ. 600",
+    "explanation": "10% నష్టం అంటే అమ్మకపు ధర అసలు ధరలో 90%. 90% = రూ. 450 => 100% అసలు ధర = రూ. 500. 20% లాభం పొందాలంటే 500 లో 120% = 500 * 1.2 = రూ. 600 కు అమ్మాలి."
+  },
+  {
+    "id": "m_math_3",
+    "subject": "Mathematics",
+    "difficulty": "Hard",
+    "paperType": "AP TET Paper II (Classes 6–8)",
+    "question": "sin (90° - θ) దేనికి సమానంగా ఉంటుంది?",
+    "options": ["-sin θ", "cos θ", "-cos θ", "tan θ"],
+    "answer": "cos θ",
+    "explanation": "త్రికోణమితి ప్రధమ స్థాన కోణం ప్రకారం, sin (90° - θ) = cos θ అవుతుంది."
+  },
+  {
+    "id": "m_evs_1",
+    "subject": "Environmental Studies",
+    "difficulty": "Easy",
+    "paperType": "AP TET Paper I (Classes 1–5)",
+    "question": "భూమికి అత్యంత సమీపంలో ఉండే వాతావరణ పొర ఏది?",
+    "options": ["స్ట్రాటో ఆవరణం", "ఐనో ఆవరణం", "ట్రోపో ఆవరణం", "థెర్మో ఆవరణం"],
+    "answer": "ట్రోపో ఆవరణం",
+    "explanation": "ట్రోపోస్పియర్ (ట్రోపో ఆవరణం) భూమి యొక్క వాతావరణంలో అత్యంత దిగువన ఉండి దాదాపు 75% వాతావరణ ద్రవ్యరాశి కలిగి ఉంటుంది."
+  },
+  {
+    "id": "m_sci_1",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "paperType": "AP TET Paper II (Classes 6–8)",
+    "question": "క్రింది వాటిలో మానవ శరీరంలో అతిపెద్ద గ్రంథి (Gland) ఏది?",
+    "options": ["పిట్యూటరీ గ్రంథి", "కాలేయం (Liver)", "ప్యాంక్రియాస్", "థైరాయిడ్ గ్రంథి"],
+    "answer": "కాలేయం (Liver)",
+    "explanation": "కాలేయం (Liver) మానవ శరీరంలో అతిపెద్ద నిరంతర రసాయన హార్మోన్ ఉత్పత్తి స్థాన గ్రంథిగా ఉన్నది."
+  },
+  {
+    "id": "m_soc_1",
+    "subject": "Social Studies",
+    "difficulty": "Easy",
+    "paperType": "AP TET Paper II (Classes 6–8)",
+    "question": "భారత రాజ్యాంగంలో 'ఆదేశిక సూత్రాలను' (Directive Principles) ఏ దేశ రాజ్యాంగం నుండి గ్రహించారు?",
+    "options": ["ఐర్లాండ్", "అమెరికా", "రష్యా", "బ్రిటన్"],
+    "answer": "ఐర్లాండ్",
+    "explanation": "భారత రాజ్యాంగ నిర్మాత డా. బి. ఆర్ అంబేద్కర్ ఐర్లాండ్ రాజ్యాంగం నుండి ఆదేశిక సూత్రాలను స్వీకరించి రాజ్యాంగంలో 4వ భాగంలో చేర్చారు."
+  },
+  {
+    "id": "m_soc_2",
+    "subject": "Social Studies",
+    "difficulty": "Medium",
+    "paperType": "AP TET Paper II (Classes 6–8)",
+    "question": "విజయనగర సామ్రాజ్యాన్ని పాలించిన వంశాల వరుస క్రమం ఏది?",
+    "options": ["సంగమ, సాళువ, తులువ, అరవీడు", "సాళువ, సంగమ, తులువ, అరవీడు", "సంగమ, తులువ, సాళువ, అరవీడు", "తులువ, సంగమ, సాళువ, అరవీడు"],
+    "answer": "సంగమ, సాళువ, తులువ, అరవీడు",
+    "explanation": "విజయనగరాన్ని మొదటిగా సంగమ వంశం, తర్వాత సాళువ వంశం, ఆపై తులువ వంశం (శ్రీకృష్ణదేవరాయల వంశం), చివరిగా అరవీడు వంశస్తులు పాలించారు."
+  },
+  {
+    "id": "m_soc_3",
+    "subject": "Social Studies",
+    "difficulty": "Hard",
+    "paperType": "AP TET Paper II (Classes 6–8)",
+    "question": "భారత సైన్యానికి సర్వ సైన్యాధ్యక్షుడు (Supreme Commander) ఎవరు?",
+    "options": ["ప్రధానమంత్రి", "రక్షణ శాఖ మంత్రి", "రాష్ట్రపతి", "భారత ప్రధాన న్యాయమూర్తి"],
+    "answer": "రాష్ట్రపతి",
+    "explanation": "భారత రాజ్యాంగంలోని ఆర్టికల్ 53(2) ప్రకారం త్రివిధ దళాలకు (ఆర్మీ, నేవీ, ఎయిర్ ఫోర్స్) రాష్ట్రపతి సర్వ సైన్యాధ్యక్షుడిగా ఉంటారు."
+  }
+]

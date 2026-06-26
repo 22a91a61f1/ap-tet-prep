@@ -1,0 +1,61 @@
+{
+  "paper1": {
+    "telugu": {
+      "reading-comprehension": [
+        {
+          "title": "Reading Comprehension Tips & Tricks In Telugu | Best Way to Solve | English Practice Questions",
+          "teacher": "Achievers Academy",
+          "youtubeUrl": "https://www.youtube.com/watch?v=j-F-wr69jNQ"
+        },
+        {
+          "title": "RC tricks in telugu / reading comprehension in Telugu /Solve reading comprehension",
+          "teacher": "English with Krishna",
+          "youtubeUrl": "https://www.youtube.com/watch?v=Wo7c3EWSuZ0"
+        },
+        {
+          "title": "RC tricks in telugu / reading comprehension in Telugu / how to solve reading comprehension",
+          "teacher": "Sadhana Online Academy",
+          "youtubeUrl": "https://www.youtube.com/watch?v=v6NiL6AFpoc"
+        }
+      ]
+    }
+  },
+  "paper2": {
+    "mathematics": {
+      "algebra": [
+        {
+          "title": "AP TET & DSC Mathematics - Algebra (బీజగణితం సంపూర్ణ క్లాస్)",
+          "teacher": "yes publications",
+          "youtubeUrl": "https://www.youtube.com/watch?v=s56EYGxDA80"
+        },
+        {
+          "title": "AP TET/ DSC ll బీజ గణితం ll Algebra ll Part - 1",
+          "teacher": "Baji sir Maths",
+          "youtubeUrl": "https://www.youtube.com/watch?v=sHUhp0jf8Ww"
+        },
+        {
+          "title": "AP & TG TET Maths | Complete Algebra PYQ's with Explanation",
+          "teacher": "yes publications",
+          "youtubeUrl": "https://www.youtube.com/watch?v=PT-mcLTmwfc"
+        }
+      ],
+      "real-numbers": [
+        {
+          "title": "Number System | సంఖ్యా మానము I Natural Numbers/Whole Numbers/Integers/Rational/Irrational Numbers",
+          "teacher": "Ramesh Sir Maths Class",
+          "youtubeUrl": "https://www.youtube.com/watch?v=NmzQMri9uXk"
+        },
+        {
+          "title": "TET DSC మ్యాథమెటిక్స్ క్లాస్ సంఖ్యామానం",
+          "teacher": "yes publications",
+          "youtubeUrl": "https://www.youtube.com/watch?v=fekhBty3H2Q"
+        },
+        {
+          "title": "TET + DSC : 8 వ తరగతి - అకరణీయ సంఖ్యలు / TEXTBOOK వివరణ",
+          "teacher": "Handbook Academy",
+          "youtubeUrl": "https://www.youtube.com/watch?v=efJRzxFkfEI"
+        }
+      ]
+    }
+  }
+}
